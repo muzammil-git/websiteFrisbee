@@ -1,0 +1,32 @@
+header{
+    background-color: rgba(128, 128, 128, 0.5);
+    width: auto;
+}
+
+h1{
+    text-align: center;
+    color:rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+
+a{
+    background-color: rgba(168, 164, 164, 0.712);
+    color:rgb(1,1,1);
+}
+
+/* hides picture */
+aside.left{ 
+    display: none;
+}
+
+.right{
+    background-color: rgb(128, 128, 128);
+    font-weight: 500;  
+    overflow-wrap: normal;
+    height: auto;
+}
+
+h2{
+    color: rgb(1, 1, 161);
+    text-transform: uppercase;
+}
